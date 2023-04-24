@@ -1,2 +1,3 @@
-# Netflix_Landing_Page
-Netflix landing page (designed with bootstrap)
+# Netflix Landing Page
+
+* Netflix landing page (designed with bootstrap)
