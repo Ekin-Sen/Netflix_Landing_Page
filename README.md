@@ -1,4 +1,5 @@
-# Netflix Landing Page
+# Netflix Landing Page (Netflix Germany)
 
-* Netflix landing page (designed with bootstrap)
+* Netflix landing page of Netflix Germany
+* The page designed with bootstrap
 * The page is responsive
