@@ -10,7 +10,6 @@ img {
     display: block;
 }
 
-
 @media screen and (max-width: 959.98px) {
     img {
         width: 5.56rem;
@@ -18,7 +17,10 @@ img {
     }
   }
 
-
+.content_card {
+    background: rgb(11,20,58);
+    background: linear-gradient(124deg, rgba(11,20,58,1) 0%, rgba(24,19,51,1) 47%, rgba(63,15,32,1) 54%);
+}  
 
 
 
