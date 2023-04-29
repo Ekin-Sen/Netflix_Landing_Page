@@ -30,3 +30,6 @@ img {
     background-color: #142243;
 }
 
+a {
+    color: inherit;
+}
